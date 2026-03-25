@@ -1,1 +1,30 @@
-Documentación del Sistema Integrado de Gestión de Panificación1. Pilares de la Panificación TécnicaLa base del sistema reside en el dominio de las fórmulas panaderas, donde cada ingrediente se calcula con precisión matemática.Hidratación y Porcentajes: Se utiliza el "porcentaje del panadero" para escalar la producción, permitiendo que recetas como el Pan Campesino mantengan su balance sin importar el volumen.Estandarización de Pesos: El sistema define pesos base (como los $402,5$ g para el pan campesino) para asegurar que cada unidad sea idéntica en tamaño y cocción.Versatilidad de Productos: La metodología se extiende desde panes salados tradicionales hasta pastelería fina, como la Torta de Naranja, ajustando cálculos según dimensiones y formas (cuadradas o redondas).2. Control de Costos y RentabilidadLa rentabilidad no depende solo de la venta, sino de la gestión exacta de los insumos en tiempo real.Base de Costos por Gramo: El sistema desglosa el precio de cada ingrediente (harina, levadura, azúcar, etc.) hasta su unidad mínima.Optimización Dinámica: Mediante el uso de herramientas digitales, es posible actualizar los precios del mercado una sola vez y reflejar el impacto de forma inmediata en el costo total de la receta.Cálculo de Insumos Totales: El sistema permite proyectar la compra de materia prima exacta para una cantidad específica de panes, evitando el desperdicio y optimizando el flujo de caja.3. Digitalización y OperatividadLa transición de hojas de cálculo estáticas a aplicaciones web interactivas mejora la agilidad en el área de trabajo.Interfaz Mobile-First: El uso de Tailwind CSS permite que las calculadoras sean accesibles y fáciles de leer desde un teléfono móvil en medio de la producción.Distribución de Información: La integración de funciones de copiado rápido facilita el envío de listas de producción por canales de mensajería instantánea como WhatsApp.Infraestructura en la Nube: El despliegue a través de plataformas como GitHub Pages asegura que las herramientas de gestión estén disponibles de forma permanente y gratuita.Resumen del EcosistemaEste sistema no solo calcula ingredientes; es una herramienta de toma de decisiones que une la gestión administrativa con la pasión por la panadería.
+# 🥖 Sistema Integrado de Gestión de Panificación
+> **Gestión Profesional de Fernando Araujo**
+
+Este sistema representa la convergencia entre la **panificación artesanal técnica** y la **optimización digital**, permitiendo un control total sobre la producción y rentabilidad.
+
+---
+
+## 🔬 1. Pilares de la Panificación Técnica
+La base del sistema reside en el dominio de las fórmulas panaderas de alta precisión.
+
+* **Estandarización de Pesos:** Se definen pesos base exactos, como los **402,5 g** para el Pan Campesino, garantizando uniformidad en cada pieza.
+* **Versatilidad de Productos:** El sistema se adapta tanto a panadería salada como a pastelería fina (ej. **Torta de Naranja**), ajustando cálculos según dimensiones cuadradas o redondas.
+* **Hidratación y Porcentajes:** Uso del porcentaje del panadero para escalar la producción sin perder el balance de la receta.
+
+## 💰 2. Control de Costos y Rentabilidad
+Gestión exacta de insumos para asegurar la viabilidad económica del negocio.
+
+* **Desglose por Gramo:** Cálculo preciso del costo de cada ingrediente (Harina, Levadura, Azúcar, etc.) hasta su unidad mínima.
+* **Optimización Dinámica:** Reflejo inmediato del impacto de los precios del mercado en el costo total de la receta.
+* **Flujo de Caja:** Proyección exacta de materia prima para evitar desperdicios y optimizar compras.
+
+## 📱 3. Digitalización y Operatividad
+Transformación de herramientas estáticas en aplicaciones interactivas y accesibles.
+
+* **Interfaz Mobile-First:** Uso de **Tailwind CSS** para una lectura clara desde dispositivos móviles en el área de producción.
+* **Infraestructura Cloud:** Despliegue mediante **GitHub Pages** para disponibilidad permanente de las herramientas.
+* **Conectividad:** Funciones integradas para compartir listas de producción rápidamente.
+
+---
+_Sistema de Gestión Integrado - 2026_
